@@ -144,14 +144,10 @@
                     </view>
                     <connections>
                         <outlet property="leftFormulaLabel" destination="9aZ-Dk-Q7n" id="NO5-pA-oT7"/>
-                        <outlet property="leftMinusLabel" destination="taH-6w-sBr" id="gtt-Eo-nec"/>
-                        <outlet property="leftPlusLabel" destination="WVx-UF-fna" id="ubZ-Lb-pTY"/>
                         <outlet property="leftSwitch" destination="Smv-LV-wH4" id="nZq-zi-SBa"/>
                         <outlet property="leftTextField" destination="nho-kG-yd8" id="wd5-DG-MhR"/>
                         <outlet property="resultLabel" destination="9GN-Ns-Uov" id="jVT-Qh-PcI"/>
                         <outlet property="rightFormulaLabel" destination="QK7-9B-3Fj" id="dj7-f0-slL"/>
-                        <outlet property="rightMinusLabel" destination="Gd5-5I-v7d" id="DRL-lq-j69"/>
-                        <outlet property="rightPlusLabel" destination="PS9-qV-vb9" id="BaQ-cp-AkB"/>
                         <outlet property="rightSwitch" destination="456-FU-dS3" id="fJG-If-Who"/>
                         <outlet property="rightTextField" destination="G4D-ON-Lgz" id="h6g-WS-yyU"/>
                     </connections>
